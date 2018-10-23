@@ -11,7 +11,7 @@ product: NLP352
 frequency: monthly
 
 # A list of terms used to subset the corpus
-terms: [dolostone, dolomite, dolomitic, limestone, calcite, calcitic, volcanic]
+terms: [dolostone, dolomite, dolomitic, limestone, calcite, calcitic, volcanic, volcanosedimentary, volcanoclastic]
 
 # Stored dictionary of terms, to be set by GDD infrastructure admins
 dictionary: DataProject_dictionary
